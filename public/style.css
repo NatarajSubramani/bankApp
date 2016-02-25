@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:12px; color:#000; background-color:#5cbb56 }
+button{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;color:#FFFFFF; font-size:20px; font-weight:bold;padding:7px;border-radius:6px;  width:100%; cursor:pointer;display:block; }
+h1{ font-size:18px; margin:0 0 15px; padding:0}
+a{color:#5cbb56; text-decoration:none}
+a:hover{color:#8e3694;}
+input{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:12px}
+section.login{ max-width:430px; margin:30px auto 0; padding:20px; background-color:#ffffff; border-radius:8px}
+.formgroup{ position:relative; margin-bottom:15px}
+.formgroup label{position:absolute; clip:rect(0 0 0 0)}
+.formgroup .fa{ position:absolute; top:10px; left:7px}
+.formgroup input{padding:8px 5px 8px 25px; border-radius:3px; border:solid 1px #AFAFAF; width:92%; display:block}
+button.btn{background-color:#5cbb56;border:solid 1px #5cbb56; }
+button.btn:hover{background-color:#8e3694;border:solid 1px #8e3694; }
+section.login .signuplink{text-align: center; display: block; padding-top: 15px;}
+section.login.signup .formgroup input{padding:8px 5px 8px 5px; width: 97%}
+
+
+
